@@ -1,16 +1,17 @@
-## Hi there 👋
+## Halo semua! 
 
-<!--
-**zufar-irawan/zufar-irawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Zufar Rafid Irawan**. Panggil saya sebagai Zufar<br>
 
-Here are some ideas to get you started:
+Saya saat ini merupakan seorang **Siswa** dari *SMK Prestasi Prima*. Belajar di bidang Pemrograman ITSSB maupun Machine Learning, dan Web Development.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Saat ini sedang belajar Machine Learning
+- 🖥️ Saat ini juga sedang belajar ITSSB (.NET dan Android Studio)
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/zufar-irawan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zufar-irawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zufar-irawan&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
+
